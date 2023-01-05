@@ -1,2 +1,2 @@
 # kaxsnak.xyz
-web directories for kaxsnak.xyz
+web directory for kaxsnak.xyz
